@@ -1,0 +1,28 @@
+name: Reino de Deus
+favicon: null
+layout_spectrum: 0.7103435108438134
+typography_spectrum: 0.20329847722314298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9682575019542128
+  lightness: 0.8242455092258751
+  saturation: 0.49801133619621396
+  rhythmicContrast: 0.2039031630847603
+purpose: []
